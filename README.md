@@ -1,6 +1,6 @@
 ### Hi, I'm Yusuf 👋
 
-**Test Lead & SDET** from Amsterdam. I build test automation that runs as a quality gate in CI/CD, test AI applications, and use AI agents in my own engineering work.
+**Test Lead, SDET and AI Engineer** from Amsterdam. I build test automation that runs as a quality gate in CI/CD, test AI applications, and use AI agents in my own engineering work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufkaracaburun/)
 
