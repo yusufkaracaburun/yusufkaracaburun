@@ -3,8 +3,6 @@
 - Father, building an app with my son and writing it all down in [building-an-app](https://github.com/yusufkaracaburun/building-an-app) 👨‍👦
 - Founder of [Emeq](https://github.com/emeqhq), a software company in Amsterdam with 30+ customers 🏗️
 - Test Lead & SDET since 2013, for PwC, Eneco, Belastingdienst, Randstad, Alliander and GrandVision 🧪
-- Built a Kafka-based E2E suite and cut its runtime from 426s to 113s ⚡
-- Migrated 200+ scenarios to Playwright, gating every PR in 5 minutes 🎭
 - Load-tested an AI assistant with 400 questions and LLM-as-judge 🤖
 - Maker of [ai-kit](https://github.com/yusufkaracaburun/ai-kit), the Claude Code and Cursor plugin I use to ship with AI agents under tests and review 🛠️
 
