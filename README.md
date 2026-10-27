@@ -1,31 +1,19 @@
 ### Hi, I'm Yusuf 👋
 
-**Test Lead, SDET & Agentic Engineer** from Amsterdam. I build test automation that runs as a quality gate in CI/CD, test AI applications, and ship software with AI agents that work under the same gates.
+- Father, building an app with my son and writing it all down in [building-an-app](https://github.com/yusufkaracaburun/building-an-app) 👨‍👦
+- Founder of [Emeq](https://github.com/emeqhq), a software company in Amsterdam with 4 products and 30+ customers 🏗️
+- Test Lead & SDET since 2013, for Eneco, PwC, Alliander, Enexis and GrandVision 🧪
+- Built the E2E suite for an event-driven energy pricing platform on Kafka, and cut its runtime from 426s to 113s ⚡
+- Migrated 200+ scenarios to Playwright across 5 tax-tech apps; the full E2E run takes 5 minutes and gates every pull request 🎭
+- Load-tested an AI assistant with 400 questions, scoring answers with LLM-as-judge 🤖
+- Maker of [ai-kit](https://github.com/yusufkaracaburun/ai-kit), the Claude Code and Cursor plugin I use to ship with AI agents under tests and review 🛠️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufkaracaburun/)
 [![Emeq](https://img.shields.io/badge/Emeq-A23696?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emeqhq)
 
 ---
 
-#### 🧪 What I do
-
-- In testing since 2013: energy, government, tax tech, retail and education
-- Built the E2E suite (Reqnroll, .NET) for an event-driven energy pricing platform on Kafka, and cut its runtime from 426s to 113s
-- Migrated 200+ scenarios from WebdriverIO to Playwright across 5 tax-tech apps; the full E2E run takes 5 minutes and gates every pull request
-- Load-tested an internal AI assistant with 400 questions, scoring answers with LLM-as-judge
-- Building an app with my son and writing it all down: [building-an-app](https://github.com/yusufkaracaburun/building-an-app)
-
----
-
-#### 🤖 How I work
-
-I let AI agents write and test code, and I hold them to the rules I would hold a team to: tests first, a review before every commit, evals for the agents' own instructions. That workflow is open source as **[ai-kit](https://github.com/yusufkaracaburun/ai-kit)**, a Claude Code and Cursor plugin that turns the agile lifecycle into skills, agents and hooks.
-
----
-
 #### 🏗️ What I build
-
-Founder of [Emeq](https://github.com/emeqhq), a software company in Amsterdam.
 
 <table>
   <tr>
