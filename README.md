@@ -10,7 +10,9 @@
 #### 🧪 What I do
 
 - In testing since 2013: energy, government, tax tech, retail and education
-- Currently: E2E and performance testing for an event-driven pricing platform (Kafka, .NET), and Playwright quality gates for tax-tech apps, including LLM-as-judge evaluation of an AI assistant
+- Built the E2E suite (Reqnroll, .NET) for an event-driven energy pricing platform on Kafka, and cut its runtime from 426s to 113s
+- Migrated 200+ scenarios from WebdriverIO to Playwright across 5 tax-tech apps; the full E2E run takes 5 minutes and gates every pull request
+- Load-tested an internal AI assistant with 400 questions, scoring answers with LLM-as-judge
 - Building an app with my son and writing it all down: [building-an-app](https://github.com/yusufkaracaburun/building-an-app)
 
 ---
