@@ -2,7 +2,7 @@
 
 - Father, building an app with my son and writing it all down in [building-an-app](https://github.com/yusufkaracaburun/building-an-app) 👨‍👦
 - Founder of [Emeq](https://github.com/emeqhq), a software company in Amsterdam with 30+ customers 🏗️
-- Test Lead & SDET since 2013, for Eneco, PwC, Alliander, Enexis and GrandVision 🧪
+- Test Lead & SDET since 2013, for PwC, Eneco, GrandVision, Alliander, Enexis, Belastingdienst, Randstad, Zorginstituut Nederland, Bakker.com, ThiemeMeulenhoff, Aventus and Cito 🧪
 - Built the E2E suite for an event-driven energy pricing platform on Kafka, and cut its runtime from 426s to 113s ⚡
 - Migrated 200+ scenarios to Playwright across 5 tax-tech apps; the full E2E run takes 5 minutes and gates every pull request 🎭
 - Load-tested an AI assistant with 400 questions, scoring answers with LLM-as-judge 🤖
